@@ -1,0 +1,46 @@
+	@font-face {
+	font-family: 'Traveling Typewriter';
+	src: url(TravelingTypewriter.ttf);
+	}
+
+
+body {
+	padding: 20% 10%;
+	text-align: center;
+    background-color: #000000;
+    font-family: 'Traveling Typewriter';
+	 font-weight: normal;
+	 color: white;
+}
+
+head {
+    background-color: #000000;
+    font-family: 'Traveling Typewriter';
+	 font-weight: normal;
+}
+
+h1 {
+	 font-weight: normal;
+}
+
+h2 {
+	 font-weight: normal;
+}
+
+h3 {
+	 font-weight: normal;
+}
+
+h4 {
+	 font-weight: normal;
+}
+
+h5 {
+	 font-weight: normal;
+}
+
+h6 {
+	 font-weight: normal;
+}
+
+animation: shake 0.15s infinite;
